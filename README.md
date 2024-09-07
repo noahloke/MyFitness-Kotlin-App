@@ -1,1 +1,3 @@
-<img width="300" src="demo.png" class="center">
+<p align="center">
+  <img width="300" src="demo.png">
+</p>
